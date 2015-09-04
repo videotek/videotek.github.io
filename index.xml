@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Мосохрана VideoTek</title>
-    <link>http://xciber.github.io/videotek/</link>
+    <link>http://videotek.github.io/</link>
     <description>Recent content on Мосохрана VideoTek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <atom:link href="http://xciber.github.io/videotek/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://videotek.github.io/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
