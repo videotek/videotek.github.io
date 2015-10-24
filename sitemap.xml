@@ -6,4 +6,28 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>http://videotek.github.io/projects/house/</loc>
+  </url>
+  
+  <url>
+    <loc>http://videotek.github.io/projects/parking/</loc>
+  </url>
+  
+  <url>
+    <loc>http://videotek.github.io/projects/restaurant/</loc>
+  </url>
+  
+  <url>
+    <loc>http://videotek.github.io/projects/shop/</loc>
+  </url>
+  
+  <url>
+    <loc>http://videotek.github.io/projects/office/</loc>
+  </url>
+  
+  <url>
+    <loc>http://videotek.github.io/projects/warehouse/</loc>
+  </url>
+  
 </urlset>
