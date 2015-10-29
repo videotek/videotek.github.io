@@ -1,33 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+&lt;?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://videotek.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://videotek.github.io/projects/house/</loc>
-  </url>
-  
-  <url>
-    <loc>http://videotek.github.io/projects/office/</loc>
-  </url>
-  
-  <url>
-    <loc>http://videotek.github.io/projects/parking/</loc>
-  </url>
-  
-  <url>
-    <loc>http://videotek.github.io/projects/restaurant/</loc>
-  </url>
-  
-  <url>
-    <loc>http://videotek.github.io/projects/shop/</loc>
-  </url>
-  
-  <url>
-    <loc>http://videotek.github.io/projects/warehouse/</loc>
+    <loc>http://videotek.mosohrana.ru/</loc>
+    <priority>1</priority>
   </url>
   
 </urlset>

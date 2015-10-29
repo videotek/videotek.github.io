@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Мосохрана VideoTek</title>
-    <link>http://videotek.github.io/projects/</link>
+    <link>http://videotek.mosohrana.ru/projects/</link>
     <description>Recent content in Projects on Мосохрана VideoTek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <atom:link href="http://videotek.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://videotek.mosohrana.ru/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Дом/Коттедж</title>
-      <link>http://videotek.github.io/projects/house/</link>
+      <link>http://videotek.mosohrana.ru/projects/house/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://videotek.github.io/projects/house/</guid>
+      <guid>http://videotek.mosohrana.ru/projects/house/</guid>
       <description>&lt;section class=&#34;tabs&#34;&gt;
     &lt;input id=&#34;tab_1&#34; type=&#34;radio&#34; name=&#34;tab&#34; checked=&#34;checked&#34;/&gt;
     &lt;input id=&#34;tab_2&#34; type=&#34;radio&#34; name=&#34;tab&#34;/&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>Магазин</title>
-      <link>http://videotek.github.io/projects/shop/</link>
+      <link>http://videotek.mosohrana.ru/projects/shop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://videotek.github.io/projects/shop/</guid>
+      <guid>http://videotek.mosohrana.ru/projects/shop/</guid>
       <description>&lt;section class=&#34;tabs&#34;&gt;
     &lt;input id=&#34;tab_9&#34; type=&#34;radio&#34; name=&#34;tab5&#34; checked=&#34;checked&#34;/&gt;
     &lt;input id=&#34;tab_10&#34; type=&#34;radio&#34; name=&#34;tab5&#34;/&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>Офис</title>
-      <link>http://videotek.github.io/projects/office/</link>
+      <link>http://videotek.mosohrana.ru/projects/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://videotek.github.io/projects/office/</guid>
+      <guid>http://videotek.mosohrana.ru/projects/office/</guid>
       <description>&lt;section class=&#34;tabs&#34;&gt;
     &lt;input id=&#34;tab_3&#34; type=&#34;radio&#34; name=&#34;tab2&#34; checked=&#34;checked&#34;/&gt;
     &lt;input id=&#34;tab_4&#34; type=&#34;radio&#34; name=&#34;tab2&#34;/&gt;
@@ -149,10 +149,10 @@
     
     <item>
       <title>Парковка</title>
-      <link>http://videotek.github.io/projects/parking/</link>
+      <link>http://videotek.mosohrana.ru/projects/parking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://videotek.github.io/projects/parking/</guid>
+      <guid>http://videotek.mosohrana.ru/projects/parking/</guid>
       <description>&lt;section class=&#34;tabs&#34;&gt;
     &lt;input id=&#34;tab_5&#34; type=&#34;radio&#34; name=&#34;tab3&#34; checked=&#34;checked&#34;/&gt;
     &lt;input id=&#34;tab_6&#34; type=&#34;radio&#34; name=&#34;tab3&#34;/&gt;
@@ -196,10 +196,10 @@
     
     <item>
       <title>Ресторан</title>
-      <link>http://videotek.github.io/projects/restaurant/</link>
+      <link>http://videotek.mosohrana.ru/projects/restaurant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://videotek.github.io/projects/restaurant/</guid>
+      <guid>http://videotek.mosohrana.ru/projects/restaurant/</guid>
       <description>&lt;section class=&#34;tabs&#34;&gt;
     &lt;input id=&#34;tab_7&#34; type=&#34;radio&#34; name=&#34;tab4&#34; checked=&#34;checked&#34;/&gt;
     &lt;input id=&#34;tab_8&#34; type=&#34;radio&#34; name=&#34;tab4&#34;/&gt;
@@ -243,10 +243,10 @@
     
     <item>
       <title>Склад</title>
-      <link>http://videotek.github.io/projects/warehouse/</link>
+      <link>http://videotek.mosohrana.ru/projects/warehouse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://videotek.github.io/projects/warehouse/</guid>
+      <guid>http://videotek.mosohrana.ru/projects/warehouse/</guid>
       <description>&lt;section class=&#34;tabs&#34;&gt;
     &lt;input id=&#34;tab_11&#34; type=&#34;radio&#34; name=&#34;tab6&#34; checked=&#34;checked&#34;/&gt;
     &lt;input id=&#34;tab_12&#34; type=&#34;radio&#34; name=&#34;tab6&#34;/&gt;
