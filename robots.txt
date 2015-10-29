@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /projects/
+Host: videotek.mosohrana.ru
+Sitemap: http://videotek.mosohrana.ru/sitemap.xml
