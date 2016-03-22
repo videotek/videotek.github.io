@@ -157,7 +157,7 @@
     /*height: 45px;*/
     padding: 5px;
     line-height: 45px;
-    text-align: center;
+    text-align: left;
     text-transform: uppercase;
     text-shadow: #fff 0 1px 0;
     z-index: 1;}
@@ -234,4 +234,6 @@
     width: 100%;
     border: 1px solid black;
     border-collapse: collapse;
+    text-align: left;
 }
+
