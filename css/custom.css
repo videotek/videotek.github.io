@@ -237,3 +237,13 @@
     text-align: left;
 }
 
+#contact a {
+    color: white;
+}
+
+#contact a:hover,
+#contact a:focus {
+    color: white;
+    font-weight: bold;
+}
+
